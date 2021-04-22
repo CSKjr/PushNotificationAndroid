@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578558766682",
+    "project_id": "service-provider-app-cb4de",
+    "storage_bucket": "service-provider-app-cb4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578558766682:android:0ace600346f8fa710af263",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578558766682-reef18e91il72v529hp9jvnsmc6a6nb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPBBUPW9iOI_n1Dm0DltiFeH2RZhBhcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578558766682-reef18e91il72v529hp9jvnsmc6a6nb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
